@@ -1,0 +1,14 @@
+Globalstrålning (kWh/m2) per månad i Lund
+
+Jan; 16.0
+Feb; 32,5
+Mar; 102,1
+Apr; 139,7
+Maj; 164,2
+Jun; 172,2
+Jul; 176,2
+Aug; 152,3
+Sep; 91,1
+Okt; 49,3
+Nov; 15,1
+Dec; 10,0
